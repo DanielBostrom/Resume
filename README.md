@@ -2,7 +2,7 @@
 # Daniel Boström
 
 **Junior Offensive Security / Cybersäkerhet**  
-Inriktad på offensiv säkerhet, Red Teaming och penetrationstestning. Här hittar du mitt CV och vissa utav mina projekt. 
+Inriktad på offensiv säkerhet, Red Teaming och penetrationstestning. Här hittar du mitt CV.
 
 ---
 
