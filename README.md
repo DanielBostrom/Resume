@@ -2,7 +2,7 @@
 # Daniel Boström
 
 **Junior Offensive Security / Cybersäkerhet**  
-Inriktad på offensiv säkerhet, Red Teaming och penetrationstestning. Erfarenhet av testmiljöer, reconnaissance och verktyg som Burp Suite, OWASP ZAP och Python-skript för scanning och automation.
+Inriktad på offensiv säkerhet, Red Teaming och penetrationstestning. Här hittar du mitt CV och vissa utav mina projekt. 
 
 ---
 
